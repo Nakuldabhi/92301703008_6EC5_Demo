@@ -1,0 +1,12 @@
+echo "Updated in local branch" >> Demo.txt
+git add .
+git commit -m "Updated file in local branch"
+git push origin local
+🔹 Pull Request (PR)
+Go to GitHub
+Click Compare & Pull Request
+Select:
+Base: master
+Compare: local
+Click Create PR
+Click Merg
