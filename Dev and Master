@@ -1,0 +1,5 @@
+git branch local
+git branch master
+
+# Switch branch
+git checkout local
